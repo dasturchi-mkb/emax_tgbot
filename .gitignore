@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+*.out
+*.err
+
+# Cache
+*.cache
+*.pytest_cache/
+.cache/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+
+# AIogram specific
+*.session
+*.session-journal
